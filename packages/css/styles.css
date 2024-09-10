@@ -516,51 +516,31 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
-  width: 90%;
+.skills__thirty {
+  width: 30%;
 }
 
-.skills__css {
-  width: 80%;
+.skills__forty {
+  width: 40%;
 }
 
-.skills__js {
-  width: 60%;
-}
-
-.skills__wordpress {
-  width: 70%;
-}
-
-.skills__python {
-  width: 60%;
-}
-
-.skills__tab {
-  width: 70%;
-}
-
-.skills__sql {
+.skills__fifty {
   width: 50%;
 }
 
-.skills__google {
+.skills__sixty {
+  width: 60%;
+}
+
+.skills__seventy {
   width: 70%;
 }
 
-.skills__bank {
+.skills__eighty {
   width: 80%;
 }
 
-.skills__google {
-  width: 70%;
-}
-
-.skills__counter {
-  width: 80%;
-}
-
-.skills__office {
+.skills__ninty {
   width: 90%;
 }
 
